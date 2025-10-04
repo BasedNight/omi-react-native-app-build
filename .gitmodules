@@ -1,0 +1,9 @@
+[submodule "eas-like-local-builder"]
+	path = eas-like-local-builder
+	url = https://github.com/erayalakese/eas-like-local-builder.git
+[submodule "bundletool-docker"]
+	path = bundletool-docker
+	url = https://github.com/BasedNight/bundletool-docker.git
+[submodule "omi"]
+	path = omi
+	url = https://github.com/BasedHardware/omi.git
